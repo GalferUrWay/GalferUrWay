@@ -1,9 +1,10 @@
-- @GalferUrWay
-- Am an inventor and a programmer
-- Deep technologies for robotics(Embedded System) and web developmet
-- 💞️ I’m looking to collaborate on Any AI related competions or just problem solving projects
-- Am also a owning an interprice called TTD for branding
-- ⚡ Life its fun when u keep it challenged
+@GalferUrWay
+🚀 Inventor | Programmer | AI Enthusiast
+
+Passionate about deep technologies, robotics (Embedded Systems), and web development
+💡 Always exploring AI competitions and problem-solving projects
+🏢 Founder of TTD Enterprise, specializing in branding
+⚡ Life is more fun when you embrace challenges!
 
 <!---
 GalferUrWay/GalferUrWay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
