@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @GalferUrWay
-- 👀 I’m interested in  AI development
-- 🌱 I’m currently learning Computer sciences fundamentals and some few programming lunguages
+- @GalferUrWay
+- Am an inventor and a programmer
+- Deep technologies for robotics(Embedded System) and web developmet
 - 💞️ I’m looking to collaborate on Any AI related competions or just problem solving projects
-- 📫 How to reach me 
-- 😄 Whatsapp +27683612087
+- Am also a owning an interprice called TTD for branding
 - ⚡ Life its fun when u keep it challenged
 
 <!---
