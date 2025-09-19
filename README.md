@@ -3,7 +3,7 @@
 
 Passionate about deep technologies, robotics (Embedded Systems), and web development
 💡 Always exploring AI competitions and problem-solving projects
-🏢 Founder of TTD Enterprise, specializing in branding
+🏢 Founder of TTD Enterprise, specializing in branding And AI Web scraping  for Enterprice purpose 
 ⚡ Life is more fun when you embrace challenges!
 
 <!---
